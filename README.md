@@ -1,9 +1,5 @@
 # Python Website Tutorial using Flask
 
-## AWS Beanstalk
-
-[Redirect](http://flask-env.eba-f8gspd3j.ap-northeast-2.elasticbeanstalk.com/)
-
 ## Setup & Installtion
 
 Make sure you have the latest version of Python installed.
